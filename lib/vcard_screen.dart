@@ -11,7 +11,7 @@ class VCardScreen extends StatelessWidget {
         title: const Text('Mi Tarjeta Digital'),
         centerTitle: true,
       ),
-      backgroundColor: Colors.purpleAccent[700],
+      backgroundColor: Color(0xFFE1BEE7),
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(16.0),
